@@ -1,4 +1,6 @@
 # EX 9 : IMAGE EDITING
+name :riyaz
+refno :212224040279
 
 ## AIM:
 
@@ -51,3 +53,7 @@
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/faa0200c-6a8f-4e9b-a91a-56c0207144c6)
+
+##RESULT:
+ Thus  an image is edited using an image editing software.
